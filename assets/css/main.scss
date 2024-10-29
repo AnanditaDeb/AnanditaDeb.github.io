@@ -7,24 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
----
----
-
-// Your custom styles here
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-.page__content {
-  h1, h2, h3 {
-    color: #333;
-  }
-}
-
-.grid__item {
-  border: 1px solid #e0e0e0;
-  border-radius: 5px;
-  padding: 15px;
-  margin-bottom: 20px;
-}
