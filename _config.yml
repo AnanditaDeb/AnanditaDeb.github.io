@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Anandita Deb"
-title_separator          : "My Portfolio"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anandita Deb"
 description              : "Welcome to my portfolio"
